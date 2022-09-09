@@ -28,6 +28,12 @@
   color: #61dafb;
 }
 
+.menuList:hover{
+  border-left: 3px solid #40a9ff !important;
+  color: #40a9ff !important;
+  cursor: pointer;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
