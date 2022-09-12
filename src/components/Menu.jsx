@@ -38,7 +38,7 @@ function Menu() {
 
   const menuStyles = {
     sidebarStyles: {
-      width: expanded ? "15%" : "60px",
+      width: expanded ? "200px" : "60px",
       height: "100%",
       marginRight: "auto",
       display: "flex",
